@@ -1,0 +1,7 @@
+# Example hostnames for testing
+example.com
+foo.example.com
+bar.example.com
+api.service.com
+login.service.com
+static.cdn.net
